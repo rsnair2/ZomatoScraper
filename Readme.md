@@ -19,3 +19,6 @@ The parse file contains the special purpose parsers that are used to extract inf
         <li> menu - list of urls to the menu images </li>
     </ul>
 
+***
+
+&#169; Rajiv Nair (rsnair.me)
